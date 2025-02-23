@@ -19,9 +19,9 @@ questions = [
     }
 ]
 
-
+ 
 # Initialize score
-score = 0
+score = 0 
 
 # Function to ask a question and check the answer
 def ask_question(question):
