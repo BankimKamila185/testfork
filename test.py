@@ -19,6 +19,7 @@ questions = [
     }
 ]
 
+
 # Initialize score
 score = 0
 
