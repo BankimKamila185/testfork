@@ -3,7 +3,7 @@
 # List of questions and answers
 questions = [
     {
-        "question": "What is the capital of France?",
+        "question": "What is the capital of USA?",
         "options": ["A. London", "B. Berlin", "C. Paris", "D. Rome"],
         "correct_answer": "C"
     },
